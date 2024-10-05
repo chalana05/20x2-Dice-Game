@@ -1,4 +1,4 @@
-Here's a `README.md` for your Python game code:
+
 
 ```markdown
 # 20x2 Dice Game
