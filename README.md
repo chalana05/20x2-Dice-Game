@@ -1,6 +1,3 @@
-
-
-```markdown
 # 20x2 Dice Game
 
 ## Overview
@@ -29,7 +26,7 @@ This is a Python-based 20x2 board game where a human player competes against the
 - Install the required `prettytable` module:
   ```bash
   pip install prettytable
-  ```
+
 
 ### Steps to Run
 
